@@ -1,0 +1,100 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+.wrapper {
+    font-family: 'Poppins', sans-serif;
+    width: 360px;
+    height: 640px;
+    background: #EEEEEE;
+}
+.wrapper__title {
+    padding-top: 86px;
+    margin-left: 108px;
+    margin-right: 108px;
+    margin-bottom: 8px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: rgba(0, 0, 0, 0.8);
+}
+.wrapper__text {
+    margin-left: 59px;
+    margin-right: 59px;
+    margin-bottom: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: rgba(0, 0, 0, 0.8);
+}
+.wrapper__images img {
+    margin-left: 94px;
+    margin-right: 94.14px;
+    margin-bottom: 20px;
+}
+.wrapper__inputs input {
+    width: 300px;
+    height: 30px;
+    background: #FFFFFF;
+    border-radius: 100px;
+    border: white;
+    padding: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0.06em;
+    color: rgba(0, 0, 0, 0.6);
+}
+.wrapper__inputs input:not(:last-child) {
+    margin-bottom: 24px;
+}
+.wrapper__inputs input:last-child {
+    margin-bottom: 17px;
+}
+.wrapper__forgot {
+    margin-left: 122px;
+    margin-right: 121px;
+    margin-bottom: 19px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #B83F0B;
+}
+.wrapper__button button{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 15px;
+    width: 310px;
+    height: 60px;
+    background: #FAA885;
+    border: none;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+.wrapper__link {
+    margin-left: 60px;
+    margin-bottom: 22px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;  
+    color: rgba(0, 0, 0, 0.8);
+}
+.wrapper__link a {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    color: #AD491E;
+    text-decoration: none;
+}
+/* 
+
+*/
