@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+.wrapper {
+    font-family: 'Poppins', sans-serif;
+    width: 360px;
+    height: 640px;
+    background: #EEEEEE;
+}
+.wrapper__red {
+    width: 360px;
+    height: 229px;
+    background: #CF7751;
+}
+.wrapper__image img {
+    margin-top: 82px;
+    margin-left: 134px;
+    margin-right: 136px;
+    margin-bottom: 24px;
+}
+.wrapper__image p {
+    margin-top: 0px;
+    margin-left: 103px;
+    margin-right: 103px;
+    margin-bottom: 12px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.85);
+}
+.wrapper__title {
+    margin-top: 11px;
+    margin-left: 238px;
+    margin-right: 25px;
+    position: absolute;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.8);
+}
+.wrapper__clock img {
+    margin-top: 52px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 0px;
+    width: 120px;
+    height: 120px;
+}
+.wrapper__clock {
+    margin-bottom: 8px;
+}
+.wrapper__titles {
+    margin-bottom: 15px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: rgba(0, 0, 0, 0.8);
+}
+.wrapper__card {
+    margin-left: 24px;
+    margin-left: 25px;
+    margin-bottom: 26px;
+    position: absolute;
+    width: 311px;
+    height: 169px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+.wrapper__text__content {
+    display: flex;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    margin-bottom: 12px;
+}
+.wrapper__text__content p {
+    margin-top: 11px;
+    margin-left: 10px;
+    margin-right: 190px;
+    width: 75px;
+    height: 20px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 20px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.wrapper__text__content img {
+    margin-top: 11px;
+    margin-right: 12px;
+    margin-bottom: 8px;
+}
+.wrapper__daily__list {
+    
+}
+/* 
+
+*/
