@@ -93,9 +93,26 @@
     margin-right: 12px;
     margin-bottom: 8px;
 }
-.wrapper__daily__list {
-    
+.wrapper__daily__list ul {
+    list-style: none;
+    margin-left: 17px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.04em;
+    color: rgba(0, 0, 0, 0.6);
 }
+.wrapper__daily__list ul li::before {
+    content: "";
+    background: #FAA885;
+    width: 8px;
+    height: 8px;
+    display: inline-block; 
+    margin-right: 8px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+  }
 /* 
 
 */
