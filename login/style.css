@@ -47,6 +47,7 @@
     line-height: 20px;
     letter-spacing: 0.06em;
     color: rgba(0, 0, 0, 0.6);
+    outline-color: #FAA885;
 }
 .wrapper__inputs input:not(:last-child) {
     margin-bottom: 24px;
@@ -63,6 +64,7 @@
     font-size: 14px;
     line-height: 21px;
     color: #B83F0B;
+    text-decoration: underline;
 }
 .wrapper__button button{
     margin-left: 25px;
@@ -93,7 +95,7 @@
     font-size: 14px;
     line-height: 21px;
     color: #AD491E;
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 /* 
 

@@ -43,6 +43,7 @@
     letter-spacing: 0.06em;
     color: rgba(0, 0, 0, 0.6);
     margin-bottom: 35px;
+    outline-color: #FAA885;
 }
 .wrapper__inputs input:not(:last-child) {
     margin-bottom: 20px;
@@ -81,5 +82,5 @@
     font-size: 14px;
     line-height: 21px;
     color: #AD491E;
-    text-decoration: none;
+    /* text-decoration: none; ===chunki uni tegida chiziq bo'lishligi uchun===*/
 }
